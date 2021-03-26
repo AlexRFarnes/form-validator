@@ -18,9 +18,9 @@ Implementation of a form validator using vanilla JS instead of HTML5 validation.
 
 ## Screenshots
 
-![Screenshot]()
+![Screenshot](https://user-images.githubusercontent.com/57517804/112575271-f9769180-8e2a-11eb-99cc-47131d0dff2d.png)
 
-[Demo]()
+[Demo](https://happy-volhard-6eee37.netlify.app/)
 
 ## Built With
 

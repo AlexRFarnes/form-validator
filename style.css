@@ -35,19 +35,19 @@ body::after {
 }
 
 body::before {
-  top: 0;
-  left: 0;
-  width: 60%;
-  height: 60%;
+  top: -5%;
+  left: 25%;
+  width: 60vh;
+  height: 60vh;
   background: linear-gradient(135deg, hsl(0, 1%, 93%), hsl(204, 70%, 73%));
   z-index: -1;
 }
 
 body::after {
   bottom: 0;
-  right: 0;
-  width: 40%;
-  height: 40%;
+  right: 25%;
+  width: 40vh;
+  height: 40vh;
   background: linear-gradient(135deg, hsl(0, 1%, 93%), hsl(204, 70%, 73%));
   z-index: -1;
 }
